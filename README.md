@@ -21,8 +21,6 @@
 
 ---
 
----
-
 ## 🤝 Connect with me:
 
 <p align="left">
@@ -118,21 +116,29 @@
 </p>
 
 ---
-
-
-## 🕹️ Contribution Game (Pac-Man)
+## 🕹️ Contribution Game (Pac-Man Style)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-pacman.svg" alt="GitHub Pacman Game"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-pacman.svg"
+       alt="GitHub Pacman Contribution Game" />
 </p>
+
+---
+
+## ⚡ Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+> 🔄 *This section updates automatically with my latest GitHub activity.*
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=GokulPawar636&show_icons=true&theme=dracula" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=GokulPawar636&layout=compact&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GokulPawar636&show_icons=true&theme=dracula" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GokulPawar636&layout=compact&theme=dracula" height="160"/>
 </p>
 
 ---
@@ -140,7 +146,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=GokulPawar636&theme=monokai"/>
+  <img src="https://streak-stats.demolab.com?user=GokulPawar636&theme=monokai&border_radius=10"/>
 </p>
 
 ---
@@ -148,18 +154,45 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=GokulPawar636&theme=onedark&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=GokulPawar636&theme=onedark&no-frame=true&row=1&column=6"/>
 </p>
+
+---
+
+## 📚 Currently Learning & Improving
+
+- 🐍 Advanced **Python & Django**
+- 📊 **SQL, PostgreSQL & Data Analytics**
+- 📈 **Power BI & Excel Dashboards**
+- 🐳 **Docker & CI/CD Pipelines**
+- 🧪 **API Testing with Postman**
+- 🧠 **System Design Fundamentals**
+
+---
+
+## 📌 Featured Projects
+
+- 🌐 **Portfolio Website**  
+  👉 https://charming-sunshine-6c3639.netlify.app/  
+  🛠 HTML • CSS • JavaScript
+
+- 🐳 **Dockerized Applications**  
+  🛠 Docker • GitHub • CI/CD
+
+- 🧩 **Django Web Apps**  
+  🛠 Python • Django • PostgreSQL
 
 ---
 
 ## 👀 Profile Visitors
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=GokulPawar636&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=GokulPawar636&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
 ✨ **Thanks for visiting my GitHub profile!**  
-⭐ Don’t forget to check my repositories and connect with me.
+⭐ Feel free to explore my repositories and connect with me.
+
+💡 *“Consistency beats intensity.”*
