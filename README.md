@@ -26,32 +26,20 @@
 ## 🤝 Connect with me:
 
 <p align="left">
-<a href="https://twitter.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" width="35"/>
+<a href="https://www.linkedin.com/in/gokul-pawar-9a22bb257" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40"/>
 </a>
-<a href="https://www.linkedin.com/in/YOUR_LINK" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="35"/>
+
+<a href="https://github.com/GokulPawar636/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
 </a>
-<a href="https://stackoverflow.com/users/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stackoverflow/stackoverflow-original.svg" width="35"/>
+
+<a href="https://charming-sunshine-6c3639.netlify.app/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40"/>
 </a>
-<a href="https://kaggle.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="35"/>
-</a>
-<a href="https://facebook.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" width="35"/>
-</a>
-<a href="https://instagram.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" width="35"/>
-</a>
-<a href="https://medium.com/" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/medium-1.svg" width="35"/>
-</a>
-<a href="https://www.hackerrank.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hackerrank/hackerrank-original.svg" width="35"/>
-</a>
-<a href="https://www.geeksforgeeks.org/" target="_blank">
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/20210101144014/gfglogo.png" width="35"/>
+
+<a href="https://hub.docker.com/repositories/gokulpawar93" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
 </a>
 </p>
 
@@ -61,70 +49,76 @@
 
 <p align="left">
 
-<!-- Platforms -->
-<a href="https://www.arduino.cc/" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
-</a>
-<a href="https://aws.amazon.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
-</a>
-<a href="https://azure.microsoft.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/>
-</a>
-
-<!-- Programming -->
-<a href="https://www.cprogramming.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-</a>
+<!-- Programming & Frameworks -->
 <a href="https://www.python.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 </a>
-<a href="https://www.java.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+<a href="https://www.djangoproject.com/" target="_blank">
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
 </a>
 
-<!-- Web -->
+<!-- Web Technologies -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
 </a>
-<a href="https://www.djangoproject.com/" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
+<a href="https://getbootstrap.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/>
 </a>
-
-<!-- Tools -->
-<a href="https://www.docker.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-</a>
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-</a>
-<a href="https://www.figma.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-</a>
-<a href="https://firebase.google.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
-</a>
-<a href="https://cloud.google.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
 </a>
 
 <!-- Databases -->
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-</a>
 <a href="https://www.mysql.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
 </a>
 <a href="https://www.postgresql.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
 </a>
+<a href="https://www.w3schools.com/sql/" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" width="40"/>
+</a>
+
+<!-- Data & Analytics -->
+<a href="https://powerbi.microsoft.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="40"/>
+</a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+<img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" width="40"/>
+</a>
+<a href="https://www.alteryx.com/" target="_blank">
+<img src="https://cdn.worldvectorlogo.com/logos/alteryx.svg" width="40"/>
+</a>
+
+<!-- DevOps & Tools -->
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+</a>
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+</a>
+<a href="https://github.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+</a>
+<a href="https://ubuntu.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+</a>
+<a href="https://www.postman.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+</a>
+
+<!-- CI/CD -->
+<a href="https://www.redhat.com/en/topics/devops/what-is-ci-cd" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/919/919832.png" width="40"/>
+</a>
 
 </p>
 
 ---
+
 
 ## 🟩 My Contribution Graph
 
