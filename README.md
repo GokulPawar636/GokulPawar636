@@ -75,21 +75,6 @@
 
 ---
 
-## 🕹️ Contribution Game (Pac-Man)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-pacman.svg" />
-</p>
-
----
-
-## ⚡ Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -107,19 +92,11 @@
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GokulPawar636&theme=onedark&no-frame=true"/>
-</p>
-
----
-
 ## 📌 Featured Projects
 
 - 🌐 **Portfolio Website** – https://charming-sunshine-6c3639.netlify.app/
-- 🐳 **Dockerized Applications**
 - 🧩 **Django Web Applications**
+- 🐳 **Dockerized Projects**
 - 📊 **Power BI Dashboards**
 
 ---
