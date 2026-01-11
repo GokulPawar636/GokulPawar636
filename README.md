@@ -120,10 +120,11 @@
 ---
 
 
-## 🟩 My Contribution Graph
+## 🕹️ Contribution Game (Pac-Man)
 
-![GitHub contribution snake animation](https://raw.githubusercontent.com/GokulPawar636/GokulPawar636/output/snake-dark.svg#gh-dark-mode-only)
-![GitHub contribution snake animation](https://raw.githubusercontent.com/GokulPawar636/GokulPawar636/output/snake.svg#gh-light-mode-only)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-pacman.svg" alt="GitHub Pacman Game"/>
+</p>
 
 ---
 
