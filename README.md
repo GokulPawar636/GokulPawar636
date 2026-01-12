@@ -91,7 +91,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=GokulPawar636&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=GokulPawar636&theme=monokai"/>
 </p>
 
 ---
