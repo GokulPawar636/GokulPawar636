@@ -1,16 +1,16 @@
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="420" />
+<p 
+  align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayurk11&theme=github_dark"/> 
 </p>
 
 <h1 align="center">👋 Hey, I'm Gokul Pawar</h1>
 
 <p align="center">
-  <b>Developer • Technology Learner • Problem Solver</b><br>
+  Curious Learner • Code Enthusiast • Problem Solver<br>
   🇮🇳 India
 </p>
 
 <p align="center">
-  🚀 Learning &nbsp;|&nbsp; 💻 Building &nbsp;|&nbsp; 🌱 Improving Every Day
+  📚 Learning • 🛠 Building • 🚀 Improving
 </p>
 
 <p align="center">
@@ -88,10 +88,36 @@
 
 ---
 
-## 🔥 GitHub Streak
+## 📊 GitHub Snapshot
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=GokulPawar636&theme=monokai"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GokulPawar636&theme=tokyonight" width="95%"/>
+</p>
+
+---
+
+## 📈 Coding Activity & Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GokulPawar636&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GokulPawar636&theme=tokyonight&utcOffset=5.5" height="160"/>
+</p>
+
+---
+
+## 🧠 Language Usage Insights
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GokulPawar636&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GokulPawar636&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak 
+
+<p 
+  align="center"> <img src="https://streak-stats.demolab.com?user=GokulPawar636&theme=monokai"/> 
 </p>
 
 ---
