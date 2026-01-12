@@ -41,7 +41,6 @@
 ---
 
 ## 🧑‍💻 Languages & Tools  
-*(Click icons to visit official websites)*
 
 <p align="left">
 
