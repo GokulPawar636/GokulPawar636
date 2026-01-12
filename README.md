@@ -5,9 +5,10 @@
 <h1 align="center">👋 Hey, I'm Gokul Pawar</h1>
 
 <p align="center">
-  Curious Learner • Code Enthusiast • Problem Solver<br>
+  Learning Tech • Writing Code • Solving Problems<br>
   🇮🇳 India
 </p>
+
 
 <p align="center">
   📚 Learning • 🛠 Building • 🚀 Improving
